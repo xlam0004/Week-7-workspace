@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {"text": "Cheapest European cities"},
-    "data": {"url": "https://github.com/xlam0004/Week-7-workspace/blob/main/city_daily_cost.csv"},
+    "data": {"url": "city_daily_cost.csv"},
     "mark": "bar",
     "encoding": 
     {
